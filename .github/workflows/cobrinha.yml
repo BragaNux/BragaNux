@@ -1,5 +1,6 @@
 # Gera a animação da cobrinha a partir do gráfico de contribuições e publica no branch "output".
-# O README usa os arquivos de https://raw.githubusercontent.com/BragaNux/BragaNux/output/
+# O README usa cobrinha-light/dark e o portfólio (braganux.github.io) usa cobrinha-site-light/dark,
+# todos em https://raw.githubusercontent.com/BragaNux/BragaNux/output/
 name: Cobrinha
 
 on:
@@ -25,6 +26,8 @@ jobs:
           outputs: |
             dist/cobrinha-light.svg?color_snake=#C88A0A&color_dots=#EBEDF0,#C9D1F7,#93A3EE,#5B71E2,#2A44D2
             dist/cobrinha-dark.svg?palette=github-dark&color_snake=#EFC253&color_dots=#161B22,#1E2754,#34449A,#5A6FE0,#8FA2FF
+            dist/cobrinha-site-light.svg?color_snake=#C88A0A&color_dots=#E2E6ED,#C9D1F7,#93A3EE,#5B71E2,#2A44D2
+            dist/cobrinha-site-dark.svg?palette=github-dark&color_snake=#EFC253&color_dots=#1F2533,#26336E,#3A4CA8,#5F74E3,#8FA2FF
 
       - name: Publica no branch output
         uses: crazy-max/ghaction-github-pages@v4
