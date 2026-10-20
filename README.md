@@ -1,4 +1,4 @@
-[README.md](https://github.com/user-attachments/files/33727872/README.md)# Brayan Martins
+# Brayan Martins
 
 Desenvolvedor full-stack em Santa Maria, RS. Construo sistemas de ponta a ponta, do banco de dados ao app no celular.
 
@@ -18,7 +18,7 @@ Aberto a oportunidades remotas, no Brasil e no exterior.
 |---|---|---|
 | **Panela** · TCC | App de divisão de despesas que ajuda a planejar antes de gastar: orçamento, rateio, acerto via Pix e resumo do grupo com IA. 20 de 20 testes funcionais de API. | Flutter · ASP.NET Core 8 · PostgreSQL · Firebase · Docker |
 | **NexaSystem** · 3Summa · privado | Atendimento pelo WhatsApp com a API oficial da Meta, inbox para a equipe e custos em reais em tempo real. | React · TypeScript · Rust (Axum) · PostgreSQL |
-| **Nexa Solution** · 🏆 melhor usabilidade, Code Race · privado | SaaS para o agro com agente de IA no WhatsApp, estoque por lotes e busca semântica. | LangChain · pgvector · Django → Rust · React |
+| **Nexa Solution** · Melhor usabilidade, Code Race · privado | SaaS para o agro com agente de IA no WhatsApp, estoque por lotes e busca semântica. | LangChain · pgvector · Django → Rust · React |
 | [**Up Espaço**](https://github.com/BragaNux/up-space-aps) | Plataforma que conecta equipe e famílias num espaço de desenvolvimento infantil, com Clean Architecture e observabilidade. Fui PO e responsável pelo front-end. | Go · React · PostgreSQL · Prometheus · Grafana |
 | [**BookGuess**](https://github.com/BragaNux/lab-g2) | Wordle literário com dicas por IA usando RAG e ranking em tempo real. | Next.js · FastAPI · pgvector · Redis · Claude |
 
