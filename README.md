@@ -47,13 +47,15 @@ Construo sistemas de ponta a ponta, do banco de dados ao app no celular. Sou des
 - [**Sentinel AI**](https://github.com/BragaNux/Sentinel-AI): extensão do Chrome que avalia autoria e risco de conteúdo com Gemini ou Ollama
 - [**E-commerce em microsserviços**](https://github.com/BragaNux/ecommerce-microsservicos): 5 serviços com Kong, Kafka, Prometheus e testes de carga no K6
 - [**Assistente de Culinária**](https://github.com/BragaNux/assistente-culinaria): bot no Telegram com RAG sobre manuais em PDF e n8n
-- [**Catálogo com observabilidade**](https://github.com/BragaNux/catalogo-observabilidade): Docker Compose, Prometheus, cAdvisor, Grafana e CI
+- [**Catálogo com observabilidade**](https://github.com/BragaNux/catalogo-observabilidade): Docker Compose, Nginx, Prometheus, cAdvisor e Grafana
 - [**BragaFlow Atlas**](https://github.com/BragaNux/bragaflow): API em Java com MongoDB Atlas e padrões Factory Method e Singleton
 - [**Check-in de Evento**](https://github.com/BragaNux/checkin-evento): app de portaria com leitura de QR Code em React Native
 - [**UniStore**](https://github.com/BragaNux/unistore): e-commerce com React, Node.js e PostgreSQL · [vídeo](https://www.youtube.com/watch?v=Dhc1uZoetas)
 - [**Crawler de e-commerce**](https://github.com/BragaNux/crawler-ecommerce): coleta e ordenação externa de produtos em Python · [vídeo](https://www.youtube.com/watch?v=I2O1biixYlI)
 - [**Especialista em Farmácia**](https://github.com/BragaNux/especialista-farmacia): Flask com Whisper e CLIP · [vídeo](https://www.youtube.com/watch?v=d2udt0eYibA)
 - [**O Algoritmo**](https://inovacaoquinta.vercel.app/inovacao_game.html): jogo em pixel art sobre 3.800 anos de história dos algoritmos, com [página de curiosidades](https://inovacaoquinta.vercel.app/curiosidades.html)
+
+Os exercícios e trabalhos das disciplinas da faculdade ficam reunidos em [**estudos-faculdade**](https://github.com/BragaNux/estudos-faculdade), organizados por matéria.
 
 ## Pesquisa e competições
 
