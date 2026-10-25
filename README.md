@@ -7,7 +7,7 @@
   </a>
 </p>
 
-Construo sistemas de ponta a ponta, do banco de dados ao app no celular. Sou desenvolvedor full-stack na **Forza Clubes** desde 2024, num sistema de gestão usado por clubes, sócio-fundador da **3Summa**, startup incubada no InovAMF, e curso **Sistemas de Informação** na Antonio Meneghetti Faculdade, com TCC em novembro de 2026. Aberto a oportunidades remotas, no Brasil e no exterior.
+Construo sistemas de ponta a ponta, do banco de dados ao app no celular. Sou desenvolvedor full-stack na **Forza Clubes** desde 2024, num sistema de gestão usado por clubes, sócio-fundador da **3Summa**, produto para a área contábil incubado no InovAMF, e curso **Sistemas de Informação** na Antonio Meneghetti Faculdade, com TCC em novembro de 2026. Aberto a oportunidades remotas, no Brasil e no exterior.
 
 <a href="https://braganux.github.io"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/btn-portfolio-dark.svg"><img alt="Portfólio" src="assets/btn-portfolio-light.svg" height="40"></picture></a>
 <a href="https://www.linkedin.com/in/bmartlns/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/btn-linkedin-dark.svg"><img alt="LinkedIn" src="assets/btn-linkedin-light.svg" height="40"></picture></a>
@@ -17,15 +17,15 @@ Construo sistemas de ponta a ponta, do banco de dados ao app no celular. Sou des
 ## Projetos em destaque
 
 <a href="https://braganux.github.io/#panela"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-panela-dark.svg"><img alt="Panela, TCC: divide as despesas do grupo e ajuda a planejar antes de gastar, com acerto via Pix e resumo por IA" src="assets/card-panela-light.svg" width="49%"></picture></a>
-<a href="https://braganux.github.io/#nexasystem"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-nexasystem-dark.svg"><img alt="NexaSystem, da 3Summa: atendimento pelo WhatsApp com a API oficial da Meta" src="assets/card-nexasystem-light.svg" width="49%"></picture></a>
+<a href="https://braganux.github.io/#summa-produto"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-3summa-dark.svg"><img alt="3Summa, produto para a área contábil da equipe Nexa Solution: atendimento pelo WhatsApp com a API oficial da Meta" src="assets/card-3summa-light.svg" width="49%"></picture></a>
 
-<a href="https://braganux.github.io/#nexa-solution"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-nexa-solution-dark.svg"><img alt="Nexa Solution, prêmio de melhor usabilidade no Code Race: SaaS para o agro com agente de IA no WhatsApp" src="assets/card-nexa-solution-light.svg" width="49%"></picture></a>
+<a href="https://braganux.github.io/#nexa-solution"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-nexa-solution-dark.svg"><img alt="SaaS para o agro da equipe Nexa Solution, prêmio de melhor usabilidade no Code Race, com agente de IA no WhatsApp" src="assets/card-nexa-solution-light.svg" width="49%"></picture></a>
 <a href="https://github.com/BragaNux/up-espaco"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-up-espaco-dark.svg"><img alt="Up Espaço: conecta equipe e famílias num espaço de desenvolvimento infantil" src="assets/card-up-espaco-light.svg" width="49%"></picture></a>
 
 <a href="https://braganux.github.io/#bookguess"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-bookguess-dark.svg"><img alt="BookGuess: Wordle literário com dicas geradas por IA usando RAG" src="assets/card-bookguess-light.svg" width="49%"></picture></a>
 <a href="https://github.com/BragaNux/ecoscan"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-ecoscan-dark.svg"><img alt="EcoScan: classifica o lixo em 12 categorias pela câmera" src="assets/card-ecoscan-light.svg" width="49%"></picture></a>
 
-<sub>NexaSystem e Nexa Solution são repositórios privados; o portfólio conta como foram feitos. O BookGuess tem duas versões, em [.NET](https://github.com/BragaNux/bookguess-dotnet) e em [Next.js + FastAPI](https://github.com/BragaNux/bookguess-nextjs).</sub>
+<sub>Os repositórios da 3Summa e do projeto do Code Race são privados; o portfólio conta como foram feitos. O BookGuess tem duas versões, em [.NET](https://github.com/BragaNux/bookguess-dotnet) e em [Next.js + FastAPI](https://github.com/BragaNux/bookguess-nextjs).</sub>
 
 ## Trajetória
 
