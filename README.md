@@ -17,7 +17,7 @@ Construo sistemas de ponta a ponta, do banco de dados ao app no celular. Sou des
 ## Projetos em destaque
 
 <a href="https://braganux.github.io/#panela"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-panela-dark.svg"><img alt="Panela, TCC: divide as despesas do grupo e ajuda a planejar antes de gastar, com acerto via Pix e resumo por IA" src="assets/card-panela-light.svg" width="49%"></picture></a>
-<a href="https://braganux.github.io/#summa-produto"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-3summa-dark.svg"><img alt="3Summa, produto para a área contábil da equipe Nexa Solution: atendimento pelo WhatsApp com a API oficial da Meta" src="assets/card-3summa-light.svg" width="49%"></picture></a>
+<a href="https://braganux.github.io/#summa-produto"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-3summa-dark.svg"><img alt="3Summa, produto para a área contábil da equipe Nexa Solution, com atendimento pelo WhatsApp" src="assets/card-3summa-light.svg" width="49%"></picture></a>
 
 <a href="https://braganux.github.io/#nexa-solution"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-nexa-solution-dark.svg"><img alt="SaaS para o agro da equipe Nexa Solution, prêmio de melhor usabilidade no Code Race, com agente de IA no WhatsApp" src="assets/card-nexa-solution-light.svg" width="49%"></picture></a>
 <a href="https://github.com/BragaNux/up-espaco"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-up-espaco-dark.svg"><img alt="Up Espaço: conecta equipe e famílias num espaço de desenvolvimento infantil" src="assets/card-up-espaco-light.svg" width="49%"></picture></a>
