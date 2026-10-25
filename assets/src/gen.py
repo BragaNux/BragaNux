@@ -272,7 +272,7 @@ CARDS = [
      'Divide as despesas do grupo e ajuda a planejar antes de gastar, com acerto via Pix e resumo por IA.',
      'Flutter · ASP.NET Core · PostgreSQL · Firebase', [('', 53.7, 'dart'), ('', 25.4, 'cs'), ('', 16.7, 'ts'), ('', 2.4, 'js'), ('', 1.8, 'html')]),
     ('3summa', '3Summa', 'Incubado · InovAMF', False,
-     'Produto para a área contábil: atendimento pelo WhatsApp com a API da Meta, inbox e custos.',
+     'Produto para a área contábil, com atendimento pelo WhatsApp, inbox da equipe e controle de custos.',
      'React · TypeScript · Rust (Axum) · PostgreSQL', [('', 46.5, 'rust'), ('', 36.5, 'ts'), ('', 14.5, 'sql'), ('', 2.5, 'html')]),
     ('nexa-solution', 'SaaS para o agro', 'Melhor usabilidade · Code Race', True,
      'Gestão para a cadeia do agro, da equipe Nexa Solution, com agente de IA no WhatsApp e busca semântica.',
