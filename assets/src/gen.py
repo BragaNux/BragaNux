@@ -194,7 +194,7 @@ SITE = 'braganux.github.io'
 PHRASES = ['do banco de dados ao app no celular', 'C#, .NET, Flutter e React no dia a dia',
            'sócio-fundador de uma startup incubada', 'prêmio de melhor usabilidade no Code Race']
 NOW = [('Forza Clubes', 'Desenvolvedor full-stack desde 2024'),
-       ('3Summa', 'Sócio-fundador, startup incubada no InovAMF'),
+       ('3Summa', 'Sócio-fundador, produto incubado no InovAMF'),
        ('Antonio Meneghetti Faculdade', 'Sistemas de Informação, TCC em nov/2026')]
 TYPE, HOLD, ERASE, SLOT = 1.4, 3.7, 4.2, 4.5  # segundos dentro do tempo de cada frase
 GAP = 1.0  # pausa com o cursor piscando no início de cada volta (e na abertura)
@@ -271,11 +271,11 @@ CARDS = [
     ('panela', 'Panela', 'TCC · 2025–2026', False,
      'Divide as despesas do grupo e ajuda a planejar antes de gastar, com acerto via Pix e resumo por IA.',
      'Flutter · ASP.NET Core · PostgreSQL · Firebase', [('', 53.7, 'dart'), ('', 25.4, 'cs'), ('', 16.7, 'ts'), ('', 2.4, 'js'), ('', 1.8, 'html')]),
-    ('nexasystem', 'NexaSystem', 'Startup · 3Summa', False,
-     'Atendimento pelo WhatsApp com a API oficial da Meta, inbox da equipe e custos em tempo real.',
+    ('3summa', '3Summa', 'Incubado · InovAMF', False,
+     'Produto para a área contábil: atendimento pelo WhatsApp com a API da Meta, inbox e custos.',
      'React · TypeScript · Rust (Axum) · PostgreSQL', [('', 46.5, 'rust'), ('', 36.5, 'ts'), ('', 14.5, 'sql'), ('', 2.5, 'html')]),
-    ('nexa-solution', 'Nexa Solution', 'Melhor usabilidade · Code Race', True,
-     'SaaS para o agro com agente de IA no WhatsApp, estoque por lotes e busca semântica.',
+    ('nexa-solution', 'SaaS para o agro', 'Melhor usabilidade · Code Race', True,
+     'Gestão para a cadeia do agro, da equipe Nexa Solution, com agente de IA no WhatsApp e busca semântica.',
      'LangChain · pgvector · Django → Rust · React', [('', 37.3, 'rust'), ('', 26.4, 'ts'), ('', 21.8, 'py'), ('', 11.8, 'sql'), ('', 2.7, 'js')]),
     ('up-espaco', 'Up Espaço', 'Em equipe · PO e front-end', False,
      'Conecta equipe e famílias num espaço de desenvolvimento infantil, com Clean Architecture e observabilidade.',
